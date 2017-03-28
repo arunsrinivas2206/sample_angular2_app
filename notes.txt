@@ -1,0 +1,5 @@
+After npm install 
+Do an npm install -g typings --save 
+typings install 
+
+Then try npm start 
